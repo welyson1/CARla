@@ -1,4 +1,5 @@
-# CARla - Assistente de voz para o Cadastro Ambiental Rural
+# CARla - Assistente de voz em tempo real para o Cadastro Ambiental Rural
+![Logo](logoCarla.png)
 
 Este repositorio contem o modulo `index.js`, uma assistente de voz pronta para apoiar o usuario durante o preenchimento do Cadastro Ambiental Rural (CAR), especialmente no fluxo do Modulo de Cadastro Pre-preenchido do SICAR.
 
