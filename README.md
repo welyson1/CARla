@@ -8,7 +8,7 @@ O modulo foi pensado para ser integrado diretamente ao sistema [Rural-Environmen
 
 A demonstracao online esta disponivel em:
 
-https://carlivedemo.shardweb.app/
+https://carla.shardweb.app/
 
 Para testar, basta abrir a demo, iniciar a conversa, permitir o uso do microfone e simular uma conversa de cadastro do CAR. A assistente inicia o atendimento por voz, pergunta o nome do usuario e conduz o passo a passo do cadastro, exibindo imagens e referencias visuais quando necessario.
 
